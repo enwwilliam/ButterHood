@@ -1,0 +1,90 @@
+.web-logo{
+    width:180px;
+    /* margin-left:30%; */
+    margin-left:0%;
+}
+
+.navbar-brand{
+    margin-left:4%;
+}
+
+.nav-link{
+    margin:auto 15px;
+    padding-bottom: 8px;
+    font-family: "Montserrat"
+}
+
+.nav-insta{
+    position:relative;
+    bottom:4px;
+}
+
+.nav-item{
+    padding-top:10px;
+}
+
+body{
+    background-color:#e4e4e4;
+}
+
+h1{
+    font-family:"Montserrat";
+    font-size:50px;
+    font-weight:900;
+    line-height:1.5;
+    margin-left:180px;
+    margin-top:200px;
+}
+
+h2{
+    font-family:"Montserrat";
+    font-weight:bold;
+    line-height:2;
+}
+
+p{
+    font-size:20px;
+    font-family:"Montserrat"
+    
+}
+
+.title{
+    padding-top:77px;
+}
+
+.nastar-img{
+    width:400px;
+    margin-left:150px;
+    margin-top:80px;
+}
+
+.bahan{
+    margin-right:100px;
+}
+
+.info{
+    padding-bottom:250px;
+}
+
+.info-bottom{
+    padding-bottom:190px;
+}
+
+.mailto{
+    padding-top:9%;
+    padding-left:6.5%;
+}
+
+.contoh{
+    width:280px;
+}
+
+.contoh-title{
+    padding-top:120px;
+}
+
+.row{
+    padding-bottom:150px;
+    padding-left:0%;
+}
+
