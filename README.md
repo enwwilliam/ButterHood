@@ -1,6 +1,6 @@
 # ButterHood
 
-Bakery website on progress
+Bakery website
 
 Written with HTML, CSS, Bootstrap4, Node.js, and Express.js.
 
