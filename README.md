@@ -1,11 +1,7 @@
 # ButterHood
 
-Bakery website
+Website for bakery startup - Butterhood, based in Indonesia. 
 
 Written with HTML, CSS, Bootstrap4, Node.js, and Express.js.
-
 Mailchimp API, nodemailer npm is used for this website. 
-
-Javascript files are not shown in github.
-
-Run by using Heroku cloud platform. 
+Javascript files are not shown in github.Run by using Heroku cloud platform. 
